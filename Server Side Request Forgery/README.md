@@ -182,6 +182,7 @@ http://127.0.1
 * Hex IP
 
     ```powershell
+    http://0x7f.1     = http://127.0.0.1
     http://0x7f000001 = http://127.0.0.1
     http://0xc0a80101 = http://192.168.1.1
     http://0xa9fea9fe = http://169.254.169.254
